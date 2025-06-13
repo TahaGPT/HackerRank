@@ -37,7 +37,7 @@ Each solution file includes a direct **link to the original problem** at the top
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hackerrank-cpp-solutions.git
+   git clone https://github.com/TahaGPT/HackerRank.git
    cd hackerrank-cpp-solutions
 Pick any .cpp file and open in your editor of choice
 
